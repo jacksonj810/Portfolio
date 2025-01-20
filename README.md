@@ -38,7 +38,7 @@ I am confident that my data analysis skills and project experience make me a str
 - **Programming Languages:** Python, SQL
 - **Libraries and Frameworks:** Pandas, NumPy, Matplotlib, Seaborn
 - **Data Visualization Tools:** Tableau
-- **Other Tools:** Git, Jupyter Notebooks, Excel
+- **Other Tools:** Jupyter Notebooks, Excel
 
 
 ---
