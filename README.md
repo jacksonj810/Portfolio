@@ -23,7 +23,7 @@ I am confident that my data analysis skills and project experience make me a str
 
 ## 📊 Featured Projects
 
-### 1. **[E-commerce Sales Performance](link-to-project-folder)**
+### 1. **[E-commerce Sales Performance]([link-to-project-folder](https://github.com/jacksonj810/E-commerce-Sales-Analysis/tree/main))**
 - **Objective:** Analyze e-commerce sales trends, customer purchasing behavior, and channel profitability to optimize revenue and inventory strategies.
 - **Skills:**  Python, Pandas, Tableau, Data Cleaning, Data Analysis, Data Visualization
 - **Key Insights:** 
