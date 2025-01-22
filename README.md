@@ -32,6 +32,17 @@ I am confident that my data analysis skills and project experience make me a str
   - Detected underperforming categories and declining sales trends to inform inventory and marketing adjustments.
 - **Tools:** Python, Jupyter Notebook, Tableau
 
+### 2. **[Sphere Integrated Circuit Analysis](https://github.com/jacksonj810/E-commerce-Sales-Analysis/tree/main)**
+- **Objective:** Investigate relationships between IC cost, power dissipation, node size, and packaging to inform sourcing decisions and identify cost drivers.
+- **Skills:**  Python, Pandas, Numpy, Seasborn, Data Cleaning, Data Analysis, Data Visualization
+- **Key Insights:** 
+  - Found that lead count showed a strong positive correlation with cost, indicating higher-pin packages tend to be pricier.
+  - Observed only a weak link between max power dissipation and cost, suggesting other factors (e.g., complexity, family type) drive pricing more.
+  - Identified a mild negative correlation between smaller node sizes and higher costs, in allignment with advanced manufacturing processes.
+  - Compared multiple distributor price columns, revealing variability in cost and availability across suppliers.
+- **Tools:** Python, Jupyter Notebook, Excel
+
+
 ---
 
 ## 🛠️ Skills and Tools
