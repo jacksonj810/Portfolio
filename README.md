@@ -32,7 +32,7 @@ I am confident that my data analysis skills and project experience make me a str
   - Detected underperforming categories and declining sales trends to inform inventory and marketing adjustments.
 - **Tools:** Python, Jupyter Notebook, Tableau
 
-### 2. **[Sphere Integrated Circuit Analysis](https://github.com/jacksonj810/E-commerce-Sales-Analysis/tree/main)**
+### 2. **[Sphera Integrated Circuit Analysis](https://github.com/jacksonj810/E-commerce-Sales-Analysis/tree/main)**
 - **Objective:** Investigate relationships between IC cost, power dissipation, node size, and packaging to inform sourcing decisions and identify cost drivers.
 - **Skills:**  Python, Pandas, Numpy, Seasborn, Data Cleaning, Data Analysis, Data Visualization
 - **Key Insights:** 
