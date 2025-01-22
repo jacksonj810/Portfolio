@@ -17,7 +17,7 @@ I am confident that my data analysis skills and project experience make me a str
 - **Name:** Jackson Jenkins
 - **Education:** B.S. in Physics, Pennsylvania State University
 - **Career Goal:** Transition into a data analysis role utilizing my technical skills and analytical mindset.
-- **Contact:** [jacksonj8510@gmail.com] | [LinkedIn](www.linkedin.com/in/jackson-jenkins-32015725b) |
+- **Contact:** jacksonj8510@gmail.com | [LinkedIn](www.linkedin.com/in/jackson-jenkins-32015725b) |
 
 ---
 
