@@ -34,7 +34,7 @@ I am confident that my data analysis skills and project experience make me a str
 
 ### 2. **[Sphera Integrated Circuit Analysis](https://github.com/jacksonj810/E-commerce-Sales-Analysis/tree/main)**
 - **Objective:** Investigate relationships between IC cost, power dissipation, node size, and packaging to inform sourcing decisions and identify cost drivers.
-- **Skills:**  Python, Pandas, Numpy, Seasborn, Data Cleaning, Data Analysis, Data Visualization
+- **Skills:**  Python, Pandas, Numpy, Seaborn, Data Cleaning, Data Analysis, Data Visualization
 - **Key Insights:** 
   - Found that lead count showed a strong positive correlation with cost, indicating higher-pin packages tend to be pricier.
   - Observed only a weak link between max power dissipation and cost, suggesting other factors (e.g., complexity, family type) drive pricing more.
