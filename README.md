@@ -64,7 +64,7 @@ Feel free to explore the projects by clicking the links above. Each project fold
 ---
 
 ## 📄 Resume
-You can download my resume [here](link-to-resume.pdf).
+You can download my resume [here](Jackson Jenkins Resume.pdf)
 
 ---
 
