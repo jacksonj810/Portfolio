@@ -64,7 +64,7 @@ Feel free to explore the projects by clicking the links above. Each project fold
 ---
 
 ## 📄 Resume
-You can download my resume [here](https://github.com/jacksonj810/Portfolio/blob/main/Jackson%20Jenkins%20Resume.pdf)
+You can view and download my resume [here](https://github.com/jacksonj810/Portfolio/blob/main/Jackson%20Jenkins%20Resume.pdf)
 
 ---
 
